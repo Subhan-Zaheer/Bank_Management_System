@@ -9,6 +9,24 @@
 
 using namespace std;
 
+/*
+					Worker's Function
+				1. Add an account
+				2. Search an account
+				3. Update an account
+				4. Remove an account
+				5. View all record
+
+					Account Holder's Function
+				1. View Account
+				2. View current balance
+				3. Deposit money
+				4. Withdraw money
+				5. Transfer money
+				6. Pay utility bills and fee
+				7. Bank Statement
+*/
+
 struct Data
 {
 	int accNum;
